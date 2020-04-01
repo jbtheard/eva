@@ -3302,6 +3302,27 @@
           "descriptionMarginHorizontal": {
             "type": "number"
           },
+          "taglineColor": {
+            "type": "string"
+          },
+          "taglineFontFamily": {
+            "type": "string"
+          },
+          "taglineFontSize": {
+            "type": "number"
+          },
+          "taglineFontWeight": {
+            "type": "string"
+          },
+          "taglineLineHeight": {
+            "type": "number"
+          },
+          "taglineMarginHorizontal": {
+            "type": "number"
+          },
+          "taglinetextTransform": {
+            "type": "string"
+          },
           "accessoryMarginHorizontal": {
             "type": "number"
           }
@@ -3342,6 +3363,13 @@
             "descriptionLineHeight": "text-caption-1-line-height",
             "descriptionFontFamily": "text-font-family",
             "descriptionColor": "text-hint-color",
+            "taglineMarginHorizontal": 8,
+            "taglineFontSize": "text-caption-2-font-size",
+            "taglineFontWeight": "text-caption-2-font-weight",
+            "taglineLineHeight": "text-caption-2-line-height",
+            "taglineFontFamily": "text-font-family",
+            "taglineColor": "text-hint-color",
+            "taglineTextTransform": "uppercase",
             "accessoryMarginHorizontal": 8,
             "state": {
               "active": {
